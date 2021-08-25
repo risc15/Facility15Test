@@ -1,0 +1,20 @@
+The main directory is a mess at the moment. Along with your tasks (written below) the directory needs to look like this:
+
+	test
+		Important_Code
+		Text_Files
+		Rat_Pics
+		README.md
+
+Tasks:
+======
+Travis and Tanner need to modify their text file with a short story (a few sentences will do).
+Zach and Chase need to write down a waffle recipe and a pizza recipe.
+Rod will add something to both files as well.
+Each group will need to have all members collaborate.
+
+Next, assign someone to pull out the text file that is not junk out of the Junk directory and place it in a new directory called Text_Files. The junk directory can be deleted.
+
+Next, everyone needs to find a picture of a rat and place it in a new directory called Rat_Pics.
+
+Last, there is a .c file in the Important_Code directory. Everyone needs to add a new line for the program to print. It can be anything within reason (not too long or short). Then, each member will compile and link the program from the command line (Bash) to create the executable which will be stored in a Bin directory inside of the Important_Code directory. The name of the executable will be your name. Any object files (.o) have to be deleted.
