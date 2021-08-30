@@ -1,1 +1,7 @@
-Zach and Chase will modify this file at the same time and learn to deal with conflicts.
+
+Preheat the waffle iron.
+Plug it in and wait for it to heat, or turn it to a certain temperature, depending on the model you're using.
+In many cases, a small light will come on when the waffle iron is ready.
+A good test of the temperature is to let a drop or two of water fall on the plates of the waffle iron. The drops should sizzle and dance for 2-3 seconds before vanishing.
+If the drops sit there for much longer than that, the waffle iron isn't warm enough yet. 
+If they vanish in less than a couple seconds, the waffle iron may be too hot.
