@@ -1,0 +1,9 @@
+This file contains features we will want our game engine to have.
+
+Features
+========
+* Tile based backgrounds with multiple layers that can scroll in any direction. Need to decide how "levels" or "maps" will be organized.
+
+* Textbox system with and/or without character photos.
+
+* Event system that can run scripts, control viewport, scroll background, etc...
