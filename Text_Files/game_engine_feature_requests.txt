@@ -6,4 +6,10 @@ Features
 
 * Textbox system with and/or without character photos.
 
+	-Some kind of font system where fonts can be loaded in with ease.
+
+	-Text effects (Color, motions, etc.)
+
+	-Speech bubble-like text boxes.
+
 * Event system that can run scripts, control viewport, scroll background, etc...
