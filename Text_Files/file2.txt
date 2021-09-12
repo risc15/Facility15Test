@@ -1,0 +1,2 @@
+I am adding text to the file.
+Cool new feature.
