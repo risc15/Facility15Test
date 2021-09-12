@@ -2,7 +2,8 @@ This file contains features we will want our game engine to have.
 
 Features
 ========
-* Tile based backgrounds with multiple layers that can scroll in any direction. Need to decide how "levels" or "maps" will be organized.
+* Tile based backgrounds with multiple layers that can scroll in any direction.
+  Need to decide how "levels" or "maps" will be organized.
 
 * Textbox system with and/or without character photos.
 
@@ -12,4 +13,21 @@ Features
 
 	-Speech bubble-like text boxes.
 
-* Event system that can run scripts, control viewport, scroll background, etc...
+* Event system that can run scripts, control viewport, scroll background, etc.
+
+* Object system. Objects types can be:
+	-Players
+
+	-NPCs
+
+	-Items
+
+	-Effects
+
+	-Anything that can be dynamically placed and described as a self-contained
+	 object.
+
+* Sound system that can manage sound effects, play tracks, or run a sound
+  engine such as a PSG. This will need to work with the event system.
+
+
